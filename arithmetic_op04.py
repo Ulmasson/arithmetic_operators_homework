@@ -5,8 +5,7 @@ x1=number%10
 print(x1)
 #Find the 'number' second digit and assign to x2.
 x2=number//10
-x22=x2%10
-print(x22)
+print(x2)
 #Find the 'number' third digit and assign to x3.
 x3=number//100
 print(x3)
