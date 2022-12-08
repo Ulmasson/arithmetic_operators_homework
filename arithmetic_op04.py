@@ -10,6 +10,6 @@ print(x2)
 x3=number//100
 print(x3)
 #Create a variable called 'answer' and assign it the sum of the three digits.
-answer=x1+x22+x3
+answer=x1+x2+x3
 #print the sum of the three digits.
 print(answer)
