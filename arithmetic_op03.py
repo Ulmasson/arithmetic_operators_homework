@@ -4,5 +4,5 @@ number=32
 xona1=number%10
 xona2=number//10
 answer=xona1*10+xona2
-#Print the answer variable
+#Print the answer variable 
 print(answer)
